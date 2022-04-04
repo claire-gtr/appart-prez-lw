@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+h1, p, h5 {
+  color: black;
+}
+
+.image-appart {
+  width: 200px;
+  margin: 20px;
+}
+
+.horizontal-scroll {
+  overflow-x: scroll;
+}
